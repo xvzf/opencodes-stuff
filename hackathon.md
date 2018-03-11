@@ -14,3 +14,4 @@
 - keep working on trendcoin (actually not keep working but finally doing some neuronal network training :D)
 - CLI podcast manager/player
 - extension based application or task launcher
+- metadata anonymization browser extension
